@@ -1,0 +1,15 @@
+.ipynb_checkpointss
+*.csv
+*.tmp
+StyleCLIP
+*.pdf
+*.zip
+*.DS_Store
+*.jpg*
+*.png
+*.json
+.DS_Store
+.Rproj.user
+*.mp4
+*.ows
+*.xlsx
