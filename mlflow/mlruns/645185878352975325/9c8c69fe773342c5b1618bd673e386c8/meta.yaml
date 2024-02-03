@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/9c8c69fe773342c5b1618bd673e386c8/artifacts
+end_time: 1706881055146
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 9c8c69fe773342c5b1618bd673e386c8
+run_name: thundering-koi-454
+run_uuid: 9c8c69fe773342c5b1618bd673e386c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706880994591
+status: 3
+tags: []
+user_id: carlo

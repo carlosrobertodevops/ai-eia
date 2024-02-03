@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/be2f4d7e172e4910afa83556035f313e/artifacts
+end_time: 1706874360978
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: be2f4d7e172e4910afa83556035f313e
+run_name: sincere-quail-228
+run_uuid: be2f4d7e172e4910afa83556035f313e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706874354643
+status: 3
+tags: []
+user_id: carlo

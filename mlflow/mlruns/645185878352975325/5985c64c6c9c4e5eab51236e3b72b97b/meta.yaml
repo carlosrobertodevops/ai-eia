@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/5985c64c6c9c4e5eab51236e3b72b97b/artifacts
+end_time: 1706881495147
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 5985c64c6c9c4e5eab51236e3b72b97b
+run_name: abrasive-crab-567
+run_uuid: 5985c64c6c9c4e5eab51236e3b72b97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881455585
+status: 3
+tags: []
+user_id: carlo

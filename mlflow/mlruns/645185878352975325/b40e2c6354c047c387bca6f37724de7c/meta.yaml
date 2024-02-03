@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/b40e2c6354c047c387bca6f37724de7c/artifacts
+end_time: 1706882005875
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: b40e2c6354c047c387bca6f37724de7c
+run_name: flawless-pig-343
+run_uuid: b40e2c6354c047c387bca6f37724de7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881993201
+status: 4
+tags: []
+user_id: carlo

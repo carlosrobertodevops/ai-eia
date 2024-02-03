@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/85596a897d804d18a9a607243f9dcd9f/artifacts
+end_time: 1706880880269
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 85596a897d804d18a9a607243f9dcd9f
+run_name: resilient-stork-468
+run_uuid: 85596a897d804d18a9a607243f9dcd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706880845784
+status: 3
+tags: []
+user_id: carlo

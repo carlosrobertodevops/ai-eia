@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/0c104e5337224a738e3b7086b1a101ec/artifacts
+end_time: 1706881698003
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 0c104e5337224a738e3b7086b1a101ec
+run_name: able-finch-483
+run_uuid: 0c104e5337224a738e3b7086b1a101ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881625773
+status: 3
+tags: []
+user_id: carlo

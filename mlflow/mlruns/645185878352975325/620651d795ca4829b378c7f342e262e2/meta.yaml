@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/620651d795ca4829b378c7f342e262e2/artifacts
+end_time: 1706880845768
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 620651d795ca4829b378c7f342e262e2
+run_name: respected-duck-613
+run_uuid: 620651d795ca4829b378c7f342e262e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706880820317
+status: 3
+tags: []
+user_id: carlo

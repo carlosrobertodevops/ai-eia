@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/32e6d664b59f4804b5249195a96ba672/artifacts
+end_time: 1706877016401
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 32e6d664b59f4804b5249195a96ba672
+run_name: clumsy-midge-818
+run_uuid: 32e6d664b59f4804b5249195a96ba672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706877010962
+status: 3
+tags: []
+user_id: carlo

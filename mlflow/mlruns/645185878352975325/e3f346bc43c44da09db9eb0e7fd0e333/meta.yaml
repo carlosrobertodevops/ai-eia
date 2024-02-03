@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/e3f346bc43c44da09db9eb0e7fd0e333/artifacts
+end_time: 1706881361719
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: e3f346bc43c44da09db9eb0e7fd0e333
+run_name: beautiful-shrew-929
+run_uuid: e3f346bc43c44da09db9eb0e7fd0e333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881318879
+status: 3
+tags: []
+user_id: carlo

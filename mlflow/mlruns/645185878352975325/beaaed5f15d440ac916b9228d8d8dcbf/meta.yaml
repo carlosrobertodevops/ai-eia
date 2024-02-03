@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/beaaed5f15d440ac916b9228d8d8dcbf/artifacts
+end_time: 1706881764060
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: beaaed5f15d440ac916b9228d8d8dcbf
+run_name: efficient-wasp-74
+run_uuid: beaaed5f15d440ac916b9228d8d8dcbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881722778
+status: 3
+tags: []
+user_id: carlo

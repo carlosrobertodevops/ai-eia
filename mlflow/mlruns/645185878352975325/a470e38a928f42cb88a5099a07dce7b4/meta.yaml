@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/a470e38a928f42cb88a5099a07dce7b4/artifacts
+end_time: 1706881722763
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: a470e38a928f42cb88a5099a07dce7b4
+run_name: judicious-lynx-800
+run_uuid: a470e38a928f42cb88a5099a07dce7b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881698017
+status: 3
+tags: []
+user_id: carlo

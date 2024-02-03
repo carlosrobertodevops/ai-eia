@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/030fba9c434d42358a690af19f2b9b71/artifacts
+end_time: 1706881170488
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 030fba9c434d42358a690af19f2b9b71
+run_name: dapper-gnu-806
+run_uuid: 030fba9c434d42358a690af19f2b9b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881110084
+status: 3
+tags: []
+user_id: carlo

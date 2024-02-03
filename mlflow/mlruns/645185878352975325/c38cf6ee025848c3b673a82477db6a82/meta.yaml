@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/c38cf6ee025848c3b673a82477db6a82/artifacts
+end_time: 1706881585810
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: c38cf6ee025848c3b673a82477db6a82
+run_name: secretive-chimp-110
+run_uuid: c38cf6ee025848c3b673a82477db6a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881560861
+status: 3
+tags: []
+user_id: carlo

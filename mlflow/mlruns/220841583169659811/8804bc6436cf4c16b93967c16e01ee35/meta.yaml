@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/8804bc6436cf4c16b93967c16e01ee35/artifacts
+end_time: 1706874613117
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 8804bc6436cf4c16b93967c16e01ee35
+run_name: merciful-shoat-408
+run_uuid: 8804bc6436cf4c16b93967c16e01ee35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706874612976
+status: 4
+tags: []
+user_id: carlo

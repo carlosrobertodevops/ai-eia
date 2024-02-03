@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/e6ac0f3c9227485c8db4da76eb1cfdcf/artifacts
+end_time: 1706875404537
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: e6ac0f3c9227485c8db4da76eb1cfdcf
+run_name: enthused-carp-319
+run_uuid: e6ac0f3c9227485c8db4da76eb1cfdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706875404465
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/4f5e08e69df149398ab95c367ef5cc44/artifacts
+end_time: 1706877456733
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 4f5e08e69df149398ab95c367ef5cc44
+run_name: awesome-eel-658
+run_uuid: 4f5e08e69df149398ab95c367ef5cc44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706877453419
+status: 3
+tags: []
+user_id: carlo

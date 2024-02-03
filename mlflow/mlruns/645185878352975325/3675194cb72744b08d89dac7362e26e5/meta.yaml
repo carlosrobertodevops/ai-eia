@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/3675194cb72744b08d89dac7362e26e5/artifacts
+end_time: 1706881294348
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 3675194cb72744b08d89dac7362e26e5
+run_name: fortunate-worm-599
+run_uuid: 3675194cb72744b08d89dac7362e26e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881229581
+status: 3
+tags: []
+user_id: carlo

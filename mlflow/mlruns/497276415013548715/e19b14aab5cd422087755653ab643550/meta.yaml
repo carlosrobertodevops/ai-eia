@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/e19b14aab5cd422087755653ab643550/artifacts
+end_time: 1706877023764
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: e19b14aab5cd422087755653ab643550
+run_name: righteous-elk-988
+run_uuid: e19b14aab5cd422087755653ab643550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706877019619
+status: 3
+tags: []
+user_id: carlo

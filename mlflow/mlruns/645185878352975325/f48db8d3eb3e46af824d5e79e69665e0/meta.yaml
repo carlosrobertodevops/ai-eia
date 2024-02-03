@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/f48db8d3eb3e46af824d5e79e69665e0/artifacts
+end_time: 1706881076222
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: f48db8d3eb3e46af824d5e79e69665e0
+run_name: illustrious-fawn-660
+run_uuid: f48db8d3eb3e46af824d5e79e69665e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881055160
+status: 3
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/d3d8afddd3184a768a8af4c7e753f053/artifacts
+end_time: 1706884306981
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: d3d8afddd3184a768a8af4c7e753f053
+run_name: traveling-lark-339
+run_uuid: d3d8afddd3184a768a8af4c7e753f053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706884237653
+status: 3
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/8505011cc60c4d1b8217198c216dbc00/artifacts
+end_time: 1706875421127
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 8505011cc60c4d1b8217198c216dbc00
+run_name: lyrical-kite-645
+run_uuid: 8505011cc60c4d1b8217198c216dbc00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706875416583
+status: 3
+tags: []
+user_id: carlo

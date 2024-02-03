@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/c2f0006652fd409db31818fd274e5869/artifacts
+end_time: 1706874507441
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: c2f0006652fd409db31818fd274e5869
+run_name: upset-stork-786
+run_uuid: c2f0006652fd409db31818fd274e5869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706874507306
+status: 4
+tags: []
+user_id: carlo

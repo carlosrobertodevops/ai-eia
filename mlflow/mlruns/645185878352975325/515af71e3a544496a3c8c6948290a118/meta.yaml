@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/515af71e3a544496a3c8c6948290a118/artifacts
+end_time: 1706884369848
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 515af71e3a544496a3c8c6948290a118
+run_name: overjoyed-crow-465
+run_uuid: 515af71e3a544496a3c8c6948290a118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706884331345
+status: 3
+tags: []
+user_id: carlo

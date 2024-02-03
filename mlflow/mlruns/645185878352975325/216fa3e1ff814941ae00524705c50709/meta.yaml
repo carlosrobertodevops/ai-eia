@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/216fa3e1ff814941ae00524705c50709/artifacts
+end_time: 1706880961842
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 216fa3e1ff814941ae00524705c50709
+run_name: defiant-stoat-189
+run_uuid: 216fa3e1ff814941ae00524705c50709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706880939802
+status: 3
+tags: []
+user_id: carlo

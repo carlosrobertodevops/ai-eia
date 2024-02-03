@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/97d451171a40453d9a2b3c57e75a33d4/artifacts
+end_time: 1706880994577
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 97d451171a40453d9a2b3c57e75a33d4
+run_name: whimsical-bass-151
+run_uuid: 97d451171a40453d9a2b3c57e75a33d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706880961862
+status: 3
+tags: []
+user_id: carlo

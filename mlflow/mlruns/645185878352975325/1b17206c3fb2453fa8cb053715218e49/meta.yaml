@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/1b17206c3fb2453fa8cb053715218e49/artifacts
+end_time: 1706881965938
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 1b17206c3fb2453fa8cb053715218e49
+run_name: hilarious-dog-740
+run_uuid: 1b17206c3fb2453fa8cb053715218e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881892643
+status: 3
+tags: []
+user_id: carlo

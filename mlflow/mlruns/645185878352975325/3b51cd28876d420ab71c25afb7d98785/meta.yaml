@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/3b51cd28876d420ab71c25afb7d98785/artifacts
+end_time: 1706881431605
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 3b51cd28876d420ab71c25afb7d98785
+run_name: calm-shad-460
+run_uuid: 3b51cd28876d420ab71c25afb7d98785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881361728
+status: 3
+tags: []
+user_id: carlo

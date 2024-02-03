@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/50f893f11d2a4258bb410b536ac479f5/artifacts
+end_time: 1706884237640
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 50f893f11d2a4258bb410b536ac479f5
+run_name: nimble-pig-341
+run_uuid: 50f893f11d2a4258bb410b536ac479f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706884202064
+status: 3
+tags: []
+user_id: carlo

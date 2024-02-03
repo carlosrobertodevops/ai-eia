@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/7012da4d33a0465da6741b66a0f3a429/artifacts
+end_time: 1706877417739
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 7012da4d33a0465da6741b66a0f3a429
+run_name: puzzled-bat-432
+run_uuid: 7012da4d33a0465da6741b66a0f3a429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706877412733
+status: 3
+tags: []
+user_id: carlo

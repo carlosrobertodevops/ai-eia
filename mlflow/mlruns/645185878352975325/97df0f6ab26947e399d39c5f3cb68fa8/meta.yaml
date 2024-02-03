@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/97df0f6ab26947e399d39c5f3cb68fa8/artifacts
+end_time: 1706881993188
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 97df0f6ab26947e399d39c5f3cb68fa8
+run_name: nervous-fish-510
+run_uuid: 97df0f6ab26947e399d39c5f3cb68fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881965955
+status: 3
+tags: []
+user_id: carlo

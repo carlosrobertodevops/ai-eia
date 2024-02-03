@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/53bb1f5d9faf4207a64c9cb94f2d9f15/artifacts
+end_time: 1706884331323
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 53bb1f5d9faf4207a64c9cb94f2d9f15
+run_name: treasured-lynx-589
+run_uuid: 53bb1f5d9faf4207a64c9cb94f2d9f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706884307001
+status: 3
+tags: []
+user_id: carlo

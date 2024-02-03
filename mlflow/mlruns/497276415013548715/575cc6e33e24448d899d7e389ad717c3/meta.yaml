@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/575cc6e33e24448d899d7e389ad717c3/artifacts
+end_time: 1706876987468
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 575cc6e33e24448d899d7e389ad717c3
+run_name: enthused-bat-459
+run_uuid: 575cc6e33e24448d899d7e389ad717c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706876987335
+status: 4
+tags: []
+user_id: carlo

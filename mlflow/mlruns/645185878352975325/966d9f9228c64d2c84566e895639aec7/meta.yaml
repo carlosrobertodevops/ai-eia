@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/966d9f9228c64d2c84566e895639aec7/artifacts
+end_time: 1706881229570
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 966d9f9228c64d2c84566e895639aec7
+run_name: angry-steed-612
+run_uuid: 966d9f9228c64d2c84566e895639aec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881193025
+status: 3
+tags: []
+user_id: carlo

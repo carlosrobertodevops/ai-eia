@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/645185878352975325/7624aa55d41a4cdeb0b887a78a56fc0d/artifacts
+end_time: 1706881455572
+entry_point_name: ''
+experiment_id: '645185878352975325'
+lifecycle_stage: active
+run_id: 7624aa55d41a4cdeb0b887a78a56fc0d
+run_name: resilient-ant-263
+run_uuid: 7624aa55d41a4cdeb0b887a78a56fc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706881431616
+status: 3
+tags: []
+user_id: carlo

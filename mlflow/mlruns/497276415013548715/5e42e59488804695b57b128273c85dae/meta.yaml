@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/5e42e59488804695b57b128273c85dae/artifacts
+end_time: 1706875015193
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 5e42e59488804695b57b128273c85dae
+run_name: placid-lamb-119
+run_uuid: 5e42e59488804695b57b128273c85dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706875015016
+status: 4
+tags: []
+user_id: carlo

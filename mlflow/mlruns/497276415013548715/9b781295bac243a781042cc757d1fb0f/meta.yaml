@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/9b781295bac243a781042cc757d1fb0f/artifacts
+end_time: 1706877019608
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 9b781295bac243a781042cc757d1fb0f
+run_name: fortunate-hen-239
+run_uuid: 9b781295bac243a781042cc757d1fb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706877016413
+status: 3
+tags: []
+user_id: carlo
