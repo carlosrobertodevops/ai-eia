@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/1b06b27af9524b1197cb709ca2f00b26/artifacts
+end_time: 1706989145518
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: 1b06b27af9524b1197cb709ca2f00b26
+run_name: angry-gnat-923
+run_uuid: 1b06b27af9524b1197cb709ca2f00b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706989144006
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/66b60743f2b54543b6302c98ee6f4849/artifacts
+end_time: 1706989264573
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 66b60743f2b54543b6302c98ee6f4849
+run_name: debonair-crane-785
+run_uuid: 66b60743f2b54543b6302c98ee6f4849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706989263639
+status: 4
+tags: []
+user_id: carlo

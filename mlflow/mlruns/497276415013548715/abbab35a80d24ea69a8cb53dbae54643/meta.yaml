@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/497276415013548715/abbab35a80d24ea69a8cb53dbae54643/artifacts
+end_time: 1706988887410
+entry_point_name: ''
+experiment_id: '497276415013548715'
+lifecycle_stage: active
+run_id: abbab35a80d24ea69a8cb53dbae54643
+run_name: smiling-gnat-714
+run_uuid: abbab35a80d24ea69a8cb53dbae54643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988886046
+status: 4
+tags: []
+user_id: carlo

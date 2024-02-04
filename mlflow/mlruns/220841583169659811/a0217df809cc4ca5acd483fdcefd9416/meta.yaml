@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/a0217df809cc4ca5acd483fdcefd9416/artifacts
+end_time: 1706988407852
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: a0217df809cc4ca5acd483fdcefd9416
+run_name: selective-wren-277
+run_uuid: a0217df809cc4ca5acd483fdcefd9416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988406468
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/2d35a2310f4340b29777c746f25b1b26/artifacts
+end_time: 1706973115870
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 2d35a2310f4340b29777c746f25b1b26
+run_name: sincere-crane-797
+run_uuid: 2d35a2310f4340b29777c746f25b1b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706973114679
+status: 4
+tags: []
+user_id: carlo

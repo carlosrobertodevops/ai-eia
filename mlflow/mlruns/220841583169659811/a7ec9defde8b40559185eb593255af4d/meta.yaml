@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/a7ec9defde8b40559185eb593255af4d/artifacts
+end_time: 1706988284546
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: a7ec9defde8b40559185eb593255af4d
+run_name: unruly-toad-585
+run_uuid: a7ec9defde8b40559185eb593255af4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988281990
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/adce94050aba4bcc8dec2115e7e68977/artifacts
+end_time: 1706990878569
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: adce94050aba4bcc8dec2115e7e68977
+run_name: able-gnat-627
+run_uuid: adce94050aba4bcc8dec2115e7e68977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706990862118
+status: 4
+tags: []
+user_id: carlo

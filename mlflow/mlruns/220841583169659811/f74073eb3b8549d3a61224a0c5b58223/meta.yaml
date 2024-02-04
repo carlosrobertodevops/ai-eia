@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/f74073eb3b8549d3a61224a0c5b58223/artifacts
+end_time: 1706989184919
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: f74073eb3b8549d3a61224a0c5b58223
+run_name: ambitious-mare-371
+run_uuid: f74073eb3b8549d3a61224a0c5b58223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706989184670
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/2e4c60a2cc5044b8adf272347bf6efeb/artifacts
+end_time: 1706972916750
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 2e4c60a2cc5044b8adf272347bf6efeb
+run_name: amusing-bird-493
+run_uuid: 2e4c60a2cc5044b8adf272347bf6efeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706972915745
+status: 4
+tags: []
+user_id: carlo

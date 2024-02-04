@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/a7e658d59e324b83aa81a78f763055f3/artifacts
+end_time: 1706988176401
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: a7e658d59e324b83aa81a78f763055f3
+run_name: marvelous-grub-882
+run_uuid: a7e658d59e324b83aa81a78f763055f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988173754
+status: 4
+tags: []
+user_id: carlo

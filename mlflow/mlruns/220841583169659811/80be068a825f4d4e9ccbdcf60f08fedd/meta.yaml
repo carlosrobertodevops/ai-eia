@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/80be068a825f4d4e9ccbdcf60f08fedd/artifacts
+end_time: 1706990923816
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 80be068a825f4d4e9ccbdcf60f08fedd
+run_name: nebulous-fox-212
+run_uuid: 80be068a825f4d4e9ccbdcf60f08fedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706990907209
+status: 4
+tags: []
+user_id: carlo

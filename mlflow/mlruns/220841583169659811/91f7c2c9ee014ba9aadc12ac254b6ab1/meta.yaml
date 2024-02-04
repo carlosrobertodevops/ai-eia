@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/91f7c2c9ee014ba9aadc12ac254b6ab1/artifacts
+end_time: 1706988620575
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 91f7c2c9ee014ba9aadc12ac254b6ab1
+run_name: casual-bug-808
+run_uuid: 91f7c2c9ee014ba9aadc12ac254b6ab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988619705
+status: 4
+tags: []
+user_id: carlo

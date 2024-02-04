@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/08d59644dbca46eabd70920f187743d8/artifacts
+end_time: 1706973016468
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 08d59644dbca46eabd70920f187743d8
+run_name: orderly-lamb-858
+run_uuid: 08d59644dbca46eabd70920f187743d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706973015488
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/b9e6d6f4213f4e58822806c273bfd176/artifacts
+end_time: 1706990309872
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: b9e6d6f4213f4e58822806c273bfd176
+run_name: rogue-shrew-581
+run_uuid: b9e6d6f4213f4e58822806c273bfd176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706990308544
+status: 4
+tags: []
+user_id: carlo

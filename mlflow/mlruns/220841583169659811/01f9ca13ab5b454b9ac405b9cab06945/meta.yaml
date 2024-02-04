@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/01f9ca13ab5b454b9ac405b9cab06945/artifacts
+end_time: 1706988658529
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 01f9ca13ab5b454b9ac405b9cab06945
+run_name: enchanting-shad-111
+run_uuid: 01f9ca13ab5b454b9ac405b9cab06945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706988657397
+status: 4
+tags: []
+user_id: carlo

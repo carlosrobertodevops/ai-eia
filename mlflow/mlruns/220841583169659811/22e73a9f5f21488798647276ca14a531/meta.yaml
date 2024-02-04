@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/22e73a9f5f21488798647276ca14a531/artifacts
+end_time: 1706989438012
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 22e73a9f5f21488798647276ca14a531
+run_name: dazzling-dove-902
+run_uuid: 22e73a9f5f21488798647276ca14a531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706989434647
+status: 4
+tags: []
+user_id: carlo

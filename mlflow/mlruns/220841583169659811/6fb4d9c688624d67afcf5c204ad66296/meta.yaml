@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/6fb4d9c688624d67afcf5c204ad66296/artifacts
+end_time: 1706989209936
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 6fb4d9c688624d67afcf5c204ad66296
+run_name: unique-roo-946
+run_uuid: 6fb4d9c688624d67afcf5c204ad66296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706989208636
+status: 4
+tags: []
+user_id: carlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/9f5ada56648e42adb6be7ecb21b3270b/artifacts
+end_time: 1706990756126
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 9f5ada56648e42adb6be7ecb21b3270b
+run_name: trusting-steed-629
+run_uuid: 9f5ada56648e42adb6be7ecb21b3270b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706990755297
+status: 4
+tags: []
+user_id: carlo

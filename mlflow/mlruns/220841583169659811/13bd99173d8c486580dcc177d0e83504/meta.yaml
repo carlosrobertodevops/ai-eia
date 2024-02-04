@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projetos/mlflow/mlruns/220841583169659811/13bd99173d8c486580dcc177d0e83504/artifacts
+end_time: 1706993230927
+entry_point_name: ''
+experiment_id: '220841583169659811'
+lifecycle_stage: active
+run_id: 13bd99173d8c486580dcc177d0e83504
+run_name: aged-fawn-765
+run_uuid: 13bd99173d8c486580dcc177d0e83504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706993210868
+status: 4
+tags: []
+user_id: carlo
